@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: org.mongodb:mongo-java-driver:3.0.1">
+    <archive path="C:/Users/Daniel-PC/.m2/repository/org/mongodb/mongo-java-driver/3.0.1/mongo-java-driver-3.0.1.jar" />
+  </library>
+</eclipse-userlibraries>
+

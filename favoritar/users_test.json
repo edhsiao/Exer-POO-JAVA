@@ -1,0 +1,18 @@
+[{
+    "login": "teste@email.com",
+    "name": "Teste",
+    "password": "senha",
+    "favorites": []
+},
+{
+    "login": "edward@email.com",
+    "name": "Edward",
+    "password": "senha",
+    "favorites": []
+},
+{
+    "login": "maria@email.com",
+    "name": "Maria",
+    "password": "senha",
+    "favorites": []
+}]
