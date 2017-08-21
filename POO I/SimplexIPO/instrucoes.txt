@@ -1,0 +1,13 @@
+http://sourceforge.net/projects/parallelcolt/files/parallelcolt/0.9.4/parallelcolt-0.9.4-bin.zip/download
+
+Baixe e descompacte parallelcolt-0.9.4.jar e a pasta lib dentro da pasta do projeto.
+
+Formato do simplex.txt:
+
+<número de restrições M>
+<número de variaveis N>
+[MIN|MAX]<c1, c2, ..., cN>
+<a11, a12, ..., a1N> <b1>
+...
+...
+<aM1, aM2, ..., aMN> <bM>

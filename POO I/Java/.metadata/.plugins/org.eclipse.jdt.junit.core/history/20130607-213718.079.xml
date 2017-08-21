@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testrun name="TesteServidor" project="JUnit" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="Servidor.TesteServidor" time="0.004">
+    <testcase name="test1" classname="Servidor.TesteServidor" time="0.004"/>
+    <testcase name="test2" classname="Servidor.TesteServidor" time="0.0"/>
+    <testcase name="test3" classname="Servidor.TesteServidor" time="0.0"/>
+  </testsuite>
+</testrun>
